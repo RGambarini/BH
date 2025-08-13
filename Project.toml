@@ -1,0 +1,10 @@
+name = "black_hole_jl"
+uuid = "12345678-1234-5678-1234-567812345678"
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-7b7e-5c4e-8b1e-4a3c4e5c7e1f"
+GLFW = "c3e4b0f2-5f9e-5e3f-8c4e-4c5e3f5c7e1f"
+GLM = "c3e4b0f2-5f9e-5e3f-8c4e-4c5e3f5c7e1f"
+Plots = "91a5bcdd-55d7-5c3f-8b1e-4a3c4e5c7e1f"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
